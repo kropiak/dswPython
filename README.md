@@ -1,4 +1,5 @@
-# Nowe repozytorium dla przedmiotu Data Science w Pythonie
+# **Nowe repozytorium dla przedmiotu Data Science w Pythonie**
+# _Nowe repozytorium dla przedmiotu Data Science w Pythonie_
 
 * elem 1
 * elem 2
